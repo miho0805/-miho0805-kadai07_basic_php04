@@ -11,7 +11,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）https://miho0805.github.io/kadai03_memo6/
+https://ada2nd-16-suzan.sakura.ne.jp/php01/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
